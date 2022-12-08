@@ -2,7 +2,7 @@
 My name is Dzmitry, I am an individual validator from Belarus. I have extensive over 1 year of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Telegram alerts)
 
 My current Testnet validators
-SSV, Decentrilized Web Services, Nomic, Source protocol, Haqq, Aura, Kyve,Gitopia, Stride, Sei, Massa, Empower, Nois, Ollo, Kyve etc, Gaia, Rebus, Subspace
+SSV, Decentrilized Web Services, Sui, Defund, Haqq, Aura, Kyve, Gitopia, Sei, Massa, Empower, Nois, Ollo, Subspace.
 ### :computer: Hardware:
 :earth_africa: **Location - [Hetzner](https://www.hetzner.com/dedicated-rootserver/ax101), [Digitalocean](https://www.digitalocean.com/)  
 :black_small_square: Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)  
