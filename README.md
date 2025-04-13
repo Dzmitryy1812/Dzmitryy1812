@@ -1,13 +1,47 @@
 ### :bust_in_silhouette: Bio: 
-My name is Dzmitry, I am an individual validator. I have extensive over 1 year of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Telegram alerts)
+**Location**: Europe  
+**Experience**: +3 year in blockchain infrastructure  
+**Status**: Participated in 20+ testnets across various blockchain ecosystems  
+**Monitoring**: ✅ Grafana + Telegram alerts (24/7 uptime)  
+**Type**: Individual non-custodial validator  
 
-My current Testnet validators
-SSV, Decentrilized Web Services, Sui, Haqq, Aura, Kyve, Gitopia, Sei, Empower, Nois, Subspace, Massa, Hologpraph, Dymension, Celestia... 
-### :computer: Hardware:
-:earth_africa: **Location - [Hetzner](https://www.hetzner.com/dedicated-rootserver/ax101), [Digitalocean](https://www.digitalocean.com/)  
-:black_small_square: Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)  
-:black_small_square: Memory - 4 TB NVMe  
-:black_small_square: Bandwidth - 1 Gbit/s-Port**
+---
+
+## 🔧 Networks
+
+- **Cosmos-based**: Sei, Celestia, Gitopia, Kyve, Haqq, Aura, Empower, Nois, Dymension  
+- **Polkadot-based**: Subspace  
+- **Others**: SSV Network, Decentralized Web Services, Massa, Holograph, Sui
+
+---
+
+## 💡 Tech Stack
+
+- OS: Linux (Ubuntu/Debian), CLI-first  
+- Languages: **C#**, Bash  
+- Containers: **Docker** (Docker Compose, custom images)  
+- Monitoring: Grafana, Telegram Bot, Prometheus  
+- Tools: Ansible, tmux, systemd, custom automation scripts  
+- Infrastructure: VPS / bare metal  
+- Additional: I **create guides and scripts** for fast and automated testnet node deployment (1-click install)
+
+---
+
+## 👨‍💻About Me
+I’m a crypto enthusiast and developer specializing in building and maintaining high-availability infrastructure for PoS and PoW networks. My goal is to use programming to optimize node and system performance while actively supporting new projects, assisting developers, and enhancing testnet ecosystems.
+
+---
+
+## 📬 Contact
+
+- GitHub: [Dzmitryy1812](https://github.com/Dzmitryy1812)  
+- Discord: `0x111eth`  
+
+---
+
+*Always open to participate in new testnets or mainnet launches. Let's decentralize the future together!*
+
+
 
 [<img src='https://user-images.githubusercontent.com/83868103/192876471-2921ad54-dc4c-4592-95f3-4d24c4ee21e1.png' alt='telegram'  width='24.5%'>](https://t.me/dzmitry1812)
 [<img src='https://user-images.githubusercontent.com/83868103/192877399-83f11a01-6da4-4d55-94f8-7e49a834989a.png' alt='telegram'  width='24.5%'>](https://twitter.com/dzmitry1812)
