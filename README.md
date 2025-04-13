@@ -8,10 +8,10 @@
 ---
 
 ## 🔧 Networks
-
-- **Cosmos-based**: Sei, Celestia, Gitopia, Kyve, Haqq, Aura, Empower, Nois, Dymension  
-- **Polkadot-based**: Subspace  
-- **Others**: SSV Network, Decentralized Web Services, Massa, Holograph, Sui
+Cosmos-based: Sei, Celestia, Gitopia, Kyve, Haqq, Aura, Empower, Nois, Dymension
+Polkadot-based: Subspace
+Others: SSV Network, Decentralized Web Services, Massa, Holograph, Sui
+Additionally, I focus on script development, writing guides, bug hunting, and providing support to communities within these networks.
 
 ---
 
