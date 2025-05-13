@@ -18,7 +18,7 @@ Additionally, I focus on script development, writing guides, bug hunting, and pr
 ## 💡 Tech Stack
 
 - OS: Linux (Ubuntu/Debian), CLI-first  
-- Languages: **C#**, Bash  
+- Languages: **C#**, Bash, JavaScript 
 - Containers: **Docker** (Docker Compose, custom images)  
 - Monitoring: Grafana, Telegram Bot, Prometheus  
 - Tools: Ansible, tmux, systemd, custom automation scripts  
@@ -28,7 +28,7 @@ Additionally, I focus on script development, writing guides, bug hunting, and pr
 ---
 
 ## 👨‍💻About Me
-I’m a crypto enthusiast and developer specializing in building and maintaining high-availability infrastructure for PoS and PoW networks. My goal is to use programming to optimize node and system performance while actively supporting new projects, assisting developers, and enhancing testnet ecosystems.
+I’m a  enthusiast and developer specializing in building and maintaining high-availability infrastructure for PoS and PoW networks. My goal is to use programming to optimize node and system performance while actively supporting new projects, assisting developers, and enhancing testnet ecosystems.
 
 ---
 
